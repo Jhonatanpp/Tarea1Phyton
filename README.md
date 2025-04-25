@@ -1,4 +1,5 @@
-# Tarea1Python
+# Tarea1 Python
+Este taller fue una excelente oportunidad para introducirme en la programación utilizando el lenguaje Python. A través de 30 ejercicios sencillos, pude aprender las estructuras fundamentales como variables, operadores, condicionales, bucles, funciones y entrada/salida de datos. Cada ejercicio me permitió aplicar la lógica de programación en situaciones prácticas, desde operaciones básicas hasta resolver ecuaciones cuadráticas o encontrar números primos. Gracias a este proceso, no solo reforcé mi comprensión del lenguaje, sino que también desarrollé habilidades para resolver problemas paso a paso. Este taller me dio una base sólida para seguir avanzando en el mundo de la programación.
 Ejercicio 1
 ![image](https://github.com/user-attachments/assets/db7974f8-6dcc-42bc-a3b5-cf99c4c33e70)
 Ejercicio 2
