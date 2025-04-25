@@ -1,5 +1,7 @@
-# Tarea1Phyton
+# Tarea1Python
+1
 ![image](https://github.com/user-attachments/assets/db7974f8-6dcc-42bc-a3b5-cf99c4c33e70)
+2
 ![image](https://github.com/user-attachments/assets/6a6776df-7762-473f-bb3e-c75b4212674c)
 ![image](https://github.com/user-attachments/assets/60ea2003-2a23-4ac7-9d26-20482763ecbe)
 ![image](https://github.com/user-attachments/assets/a8289625-6134-46c4-8412-6c339910b536)
